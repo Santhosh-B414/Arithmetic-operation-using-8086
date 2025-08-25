@@ -147,11 +147,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200:12         |          1200:44         |
+|         1201:34         |          1205:51         |
+|         1202:12         |          1206:97         |
+|         1203:34         |          1207:0A         |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![multiplication](https://github.com/user-attachments/assets/a93f7f0a-1cbb-4932-afac-dcfda8ef884f)
+
 
 ---
 
