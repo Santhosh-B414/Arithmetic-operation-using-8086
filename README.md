@@ -57,11 +57,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200:12         |          1200:24         |
+|         1201:34         |          1205:68         |
+|         1202:12         |          1206:00         |
+|         1203:34         |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![addition](https://github.com/user-attachments/assets/719ee99a-f1cb-4711-a32f-e34ae915a421)
+
 
 ---
 
